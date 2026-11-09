@@ -1,4 +1,4 @@
-# Lab 1: Volumes-networking
+# Lab 1: Volumes and networking
 
 ## Goal 
 * learnt why a file ends up gone, even with a container and where a container stores data it writes

@@ -7,8 +7,8 @@ Hands-on Docker labs built while training for a junior DevOps / cloud role. Each
 | Lab | Topic | Status |
 |-----|-------|--------|
 | [Lab 1](./lab1-website) | Serving a static website with Nginx: bind mounts vs. baked images | Done |
-| Lab 2 | Volumes and container networking | Planned |
-| Lab 3 | Docker Compose (multi-container apps) | Planned |
+| Lab 2 | Volumes and container networking | Done |
+| Lab 3 | Docker Compose (multi-container apps) | Done |
 | Lab 4 | Better Dockerfiles: multi-stage builds, non-root user, image scanning | Planned |
 | Lab 5 | Azure Container Registry (ACR) | Planned |
 | Lab 6 | Azure Container Instances (ACI) | Planned |
